@@ -185,7 +185,7 @@ l10n:
       <td id="time-example">
         <pre class="brush: html">
 用于格式化日期。例如：&#x3C;time datetime="2020-05-24"
->发布于 2020 年 5 月 23 日&#x3C;/time>。</pre
+>发布于 2020 年 5 月 24 日&#x3C;/time>。</pre
         >
         {{EmbedLiveSample("time-example", 100, 60)}}
       </td>
